@@ -1,3 +1,3 @@
 <?php
-	echo "coba belajar git";
+	echo "coba belajar git yang kedua";
 ?>
